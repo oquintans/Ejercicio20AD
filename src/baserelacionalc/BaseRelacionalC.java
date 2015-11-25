@@ -30,9 +30,9 @@ public class BaseRelacionalC {
         BaseRelacionalC brC = new BaseRelacionalC();
         brC.connection();
         brC.listar();
-        brC.insertar();
+       // brC.insertar();
         brC.listar();
-        brC.actualizar();
+     //   brC.actualizar();
         brC.listar();
     }
 
